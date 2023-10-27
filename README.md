@@ -9,6 +9,9 @@
 
           creating a new user always set role as student 
           so, please use the above given admin account to login
+
+          Netlify link : https://capstone-ticketing-system.netlify.app/
+          render link : https://zen-class-ticketing-system.onrender.com/
             
                           It has two type of role based login and signup
                           There are two dashboards for student and admin.
