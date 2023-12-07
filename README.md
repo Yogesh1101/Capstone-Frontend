@@ -1,11 +1,11 @@
           Capstone Project - Zen Class Ticketing System for Query Resolving
           account for student role:
-          email: student1@gmail.com
-          pass : 1121
+          email: student@gmail.com
+          pass : student123
 
           account for admin role:
-          email: admin1@gmail.com
-          pass : 1121
+          email: admin@gmail.com
+          pass : admin123
 
           creating a new user always set role as student 
           so, please use the above given admin account to login
